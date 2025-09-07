@@ -152,7 +152,7 @@ java IPL
 
 | Top 10 Batsmen | Top 10 Consistent Players |Top 10 Hitter Batsman |  UML Diagram |
 |----------------|--------------------------|-------------|---------------|
-| ![Top 10 Batsman](images\top_10_batsman.png) | ![Top 10 Consistent](images\top_10_consistent.png) | ![Top 10 Hitter](images\top_10_hitter.png) | ![UML](images\uml_diagram.png) |
+| ![Top 10 Batsman](images/top_10_batsman.png) | ![Top 10 Consistent](images/top_10_consistent.png) | ![Top 10 Hitter](images/top_10_hitter.png) | ![UML](images/uml_diagram.png) |
 
 ---
 
